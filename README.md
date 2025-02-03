@@ -126,5 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 * Data provided by Realtor.com
-* Analysis conducted for educational purposes
-* Special thanks to CISC 3225 course instructors and peers for guidance and feedback
+* Analysis conducted for educational purposes and hands on experience
