@@ -1,7 +1,5 @@
 # USA Real Estate Market Analysis Project
 
-## Project Status: Completed
-
 ## Project Intro/Objective
 This project conducts a comprehensive analysis of the USA real estate market using data from Realtor.com, a leading real estate listing website. The analysis employs various statistical and machine learning techniques to uncover insights into housing market trends, price determinants, and market segmentation. The project aims to provide valuable insights for real estate professionals, investors, and policymakers to make data-driven decisions.
 
