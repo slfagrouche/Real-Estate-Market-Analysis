@@ -107,7 +107,7 @@ usa-real-estate-analysis/
 ```
 
 ## Featured Deliverables
-* [Final Report](Final%20Report.pdf) - Comprehensive analysis and findings
+* [Final Report]("Final Report.pdf") - Comprehensive analysis and findings
 * [Exploratory Data Analysis](notebooks/Exploratory_Data_Analysis_of_of_USA_Real_Estate_Properties.ipynb)
 * [High-Level Analysis](notebooks/High_level_analysis.ipynb)
 
